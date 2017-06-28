@@ -1,0 +1,22 @@
+{
+  "name": "twoservers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "2app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ancisqos/TwoServers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ancisqos/TwoServers/issues"
+  },
+  "homepage": "https://github.com/ancisqos/TwoServers#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
